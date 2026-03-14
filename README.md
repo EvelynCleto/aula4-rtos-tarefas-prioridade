@@ -16,3 +16,4 @@ O código cria duas tarefas:
 - **TaskLow** → prioridade menor
 
 Cada tarefa escreve mensagens no Serial Monitor usando FreeRTOS.
+
